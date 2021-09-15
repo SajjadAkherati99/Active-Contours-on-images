@@ -11,3 +11,5 @@ Active contour model, also called snakes, is a framework in computer vision intr
 <p align="center">
   <img width="550" height="440" src="./res09.jpg">
 </p>
+
+see "contour.mp4" for more detail of view
